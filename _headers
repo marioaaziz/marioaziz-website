@@ -1,0 +1,11 @@
+/index.html
+  Content-Type: text/html; charset=utf-8
+
+/photo.jpg
+  Content-Type: image/jpeg
+
+/Mario_Aziz_Cloud_Devops.pdf
+  Content-Type: application/pdf
+
+/*
+  X-Content-Type-Options: nosniff
